@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.1](https://github.com/jdrouet/mrml/compare/mrml-v3.0.0...mrml-v3.0.1) - 2024-01-22
+
+### Other
+- *(deps)* Bump h2 from 0.3.21 to 0.3.24 ([#365](https://github.com/jdrouet/mrml/pull/365))
+
 ## [3.0.0](https://github.com/jdrouet/mrml/compare/mrml-v2.1.1...mrml-v3.0.0) - 2023-12-19
 
 ### Fixed
